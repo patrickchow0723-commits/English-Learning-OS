@@ -15,16 +15,19 @@
 
 ## 2. 单课标准流程
 
+训练方法遵循 [Active Recall & Typing Practice Standard](ACTIVE-RECALL-PRACTICE-STANDARD.md)。词汇和固定搭配课程应包含理解、主动回忆、拼写/听写（条件允许时）与情境迁移。
 1. Goal：说明本课结束时能完成什么真实任务。
 2. Warm-up：先让学习者尝试，不立即给标准答案。
 3. Input：讲解必要词汇、搭配、句型和语法。
 4. Model：展示自然、准确、符合商务语境的示范。
 5. Controlled Practice：替换词汇、重组句子、纠错。
-6. Communicative Task：完成真实情境口头或书面任务。
-7. Follow-up：至少一个追问，测试是否真正理解。
-8. Feedback：指出优点、关键错误、修订版本及可迁移规律。
-9. Evidence：记录本次可观察到的能力证据。
-10. Review：安排下一次复习的词汇、句型和错误。
+6. Active Recall：隐藏英文表达，依据中文释义或场景提示独立提取。
+7. Dictate / Type：优先真实音频听写；没有可播放音频时，只做文本拼写重建，并明确区分两者。
+8. Communicative Task：在新的真实工作情境中使用目标表达。
+9. Follow-up：至少一个追问，测试是否真正理解。
+10. Feedback：指出优点、关键错误、修订版本及可迁移规律。
+11. Evidence：记录本次可观察到的能力证据。
+12. Review：安排下一次复习的词汇、句型和错误。
 
 ## 3. 评分维度
 
@@ -78,7 +81,9 @@
 
 ## 6. 复习原则
 
-- 新词汇必须放入句子或情境中主动提取。
+- 新词汇必须放入句子或情境中主动提取；单纯阅读、跟读或照抄不计为主动回忆成功。
+- 区分真实 Audio dictation、文字线索拼写重建和 Copy typing；只有真实音频任务可以形成听力证据。
+- 错误按 spelling、word_form、collocation、preposition、tense、grammar、meaning、register、clarity 等标签记录。
 - 复习时先隐藏答案，要求学习者回忆。
 - 对连续答错的内容降低间隔；对稳定掌握的内容延长间隔。
 - 可采用 FSRS 思路安排复习，但在没有真实复习记录和算法实现前，不声称已有自动 FSRS 调度。
