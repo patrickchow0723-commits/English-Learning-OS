@@ -19,9 +19,11 @@
 
 - [课程总纲](docs/curriculum/ROADMAP.md)
 - [教学与测评规范](docs/learning/LEARNING-PROTOCOL.md)
+- [主动回忆与打字/听写训练规范](docs/learning/ACTIVE-RECALL-PRACTICE-STANDARD.md)
 - [Phase 1 / Lesson 01：职业身份与自我介绍](courses/phase-01-foundation/lesson-01-professional-introduction.md)
 - [核心词汇路线图](content/vocabulary/VOCABULARY-ROADMAP.md)
 - [商务句型路线图](content/phrases/PHRASE-ROADMAP.md)
+- [TypeWords 技术调研与借鉴方案](docs/research/TYPEWORDS-TECHNICAL-REVIEW.md)
 
 ## 课程原则
 
